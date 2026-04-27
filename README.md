@@ -13,7 +13,7 @@ Built an interactive Power BI dashboard using Amazon e-commerce sales data from 
 - Interactive date filtering
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Preview](https://github.com/moushumi94/Amazon-Sales-Report-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 - Power BI  

@@ -1,5 +1,8 @@
 # Amazon Sales Dashboard (Power BI)
 
+## 🖼️ Dashboard Preview
+![Dashboard Preview](https://github.com/moushumi94/Amazon-Sales-Report-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
+
 ## 📌 Project Overview
 Built an interactive Power BI dashboard using Amazon e-commerce sales data from Kaggle. The dashboard analyzes sales trends, delivery performance, product categories, and regional distribution to generate actionable insights.
 
@@ -11,9 +14,6 @@ Built an interactive Power BI dashboard using Amazon e-commerce sales data from 
 - Delivery partner & fulfillment analysis
 - Product size distribution
 - Interactive date filtering
-
-## 🖼️ Dashboard Preview
-![Dashboard Preview](https://github.com/moushumi94/Amazon-Sales-Report-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 - Power BI  
